@@ -1,0 +1,2 @@
+(window["webpackJsonpmy-app"]=window["webpackJsonpmy-app"]||[]).push([[4],{29:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),c=t(11);n.default=function(){return o.a.createElement("section",null,o.a.createElement(c.b,{to:"/"},"Back"),o.a.createElement("h1",null,"Author is To Hoang Duy"))}}}]);
+//# sourceMappingURL=4.43d8d534.chunk.js.map
